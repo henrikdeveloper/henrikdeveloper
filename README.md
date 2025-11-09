@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Henrik.gif" alt="Banner Gif">
+  <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
 🌱 I'm a Systems Information student, passionate about **web and multiplatform development**. I'm always eager to learn and expand my skills, and I love collaborating with the tech community on GitHub.
 
