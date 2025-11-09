@@ -1,9 +1,9 @@
 <p align="center">
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
-###A###
+
 <p align="center">
-  ###Tools I Use###
+  <h3>TOOLS I USE</h3>
 </p>
 <div align="center">
   <h2><strong>Tools I Use</strong></h2> 
