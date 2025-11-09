@@ -2,11 +2,8 @@
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
 
-<p align="center">
-  <h3>TOOLS I USE</h3>
-</p>
 <div align="center">
-  <h2><strong>Tools I Use</strong></h2> 
+  <h3><strong>Tools I Use</strong></h3> 
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
