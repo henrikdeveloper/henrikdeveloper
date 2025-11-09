@@ -1,9 +1,11 @@
 <p align="center">
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
-<p>
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" style = "vertical-align: middle; margin-right: 5px;" height="25">  <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
-</p>
+
+<div align="center"> 
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" style="vertical-align: middle; margin-right: 5px;" height="25"> <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
+</div>
+
 🌱 I'm a Systems Information student, passionate about **web and multiplatform development**. I'm always eager to learn and expand my skills, and I love collaborating with the tech community on GitHub.
 
 💻 My foundation includes **HTML, CSS, and JavaScript**, with practical experience in **React** for building interfaces and applications. I focus on **intuitive UI/UX and responsiveness**, utilizing tools like Figma for prototyping.
