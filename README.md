@@ -29,7 +29,12 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg">
+<img src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
+  style="
+      max-width: 100%; 
+      border: 2px solid #cccccc; 
+      border-radius: 5px; 
+    ">
 </p>
 
 
