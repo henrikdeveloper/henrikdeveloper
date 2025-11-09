@@ -33,7 +33,7 @@
 <table align="center">
   <tr>
     <td style="padding-right: 5px;">
-      <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25" style="vertical-align: middle;">
+      <img src="https://raw.githubusercontent.com/henrikdeveloper/henrikdeveloper/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game (Dark)" style="max-width: 100%;">
     </td>
     <td>
       <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
