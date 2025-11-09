@@ -2,6 +2,9 @@
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
 
+<p align="center">
+  ###Tools I Use###
+</p>
 <div align="center">
   <h2><strong>Tools I Use</strong></h2> 
   <div>
