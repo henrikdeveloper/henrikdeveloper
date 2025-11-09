@@ -2,12 +2,6 @@
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
 
-<p align="center">
-  I like to **turn problems into efficient solutions!** :)
-</p>
-
----
-
 <div align="center">
   <h2><strong>Tools I Use</strong></h2> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
