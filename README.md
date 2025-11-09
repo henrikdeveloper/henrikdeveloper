@@ -27,18 +27,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/henrikdeveloper/henrikdeveloper/raw/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/henrikdeveloper/henrikdeveloper/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game (Dark)" style="max-width: 100%;">
 </p>
 
-<table align="center">
-  <tr>
-    <td style="padding-right: 5px;">
-      <img src="https://raw.githubusercontent.com/henrikdeveloper/henrikdeveloper/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game (Dark)" style="max-width: 100%;">
-    </td>
-    <td>
-      <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
-    </td>
-  </tr>
-</table>
 
 
