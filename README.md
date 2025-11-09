@@ -29,11 +29,11 @@
   </div>
 </div>
 
-
+<p>
   <img 
     src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
     style="max-width: 100%; display: block;" 
   >
-
+</p>
 
 
