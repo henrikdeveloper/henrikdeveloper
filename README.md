@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Henrik_Banner_Github.gif" alt="Banner Gif">
+  <img src="Henrik_Github_Bannerr.gif" alt="Banner Gif">
 </p>
 <h3 align="center">🇧🇷 Brazilian Fullstack Developer | AI Enthusiast</h3>
 <p>I've been in the tech field since a young age, and now i'm focused in developing Fullstack Aplications! <br> <em>My passion is to turn real world problems into real world solutions effeciently.</em></p>
