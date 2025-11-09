@@ -38,7 +38,8 @@
 
 <p align="left">
   <h3>Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=henrikdeveloper&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" 
+    alt="GitHub Stats">
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrikdeveloper&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
