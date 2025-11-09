@@ -4,6 +4,7 @@
 </p>
 <h3 align="center">🇧🇷 Brazilian Fullstack Developer | AI Enthusiast</h3>
 <p align="center">I've been in the tech field since a young age, and now i'm focused in developing Fullstack Aplications. <br> <strong>My passion is to turn real world problems into real world solutions effeciently.</strong></p>
+<br>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -31,7 +32,7 @@
 <br>
 
 
-<div align="center"> <h3>Stats</h3> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=transparent&hide_border=true" alt="GitHub Top Languages" > </div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=transparent&hide_border=true" alt="GitHub Top Languages" > </div>
 
 
 
