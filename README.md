@@ -28,14 +28,18 @@
   </div>
 </div>
 
-<p align="center">
-<img src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
-  style="
-      max-width: 100%; 
-      border: 2px solid #cccccc; 
-      border-radius: 5px; 
-    ">
-</p>
+<div align="center" style="
+    border: 2px solid #cccccc; 
+    border-radius: 6px;         
+    padding: 10px;        
+    display: inline-block;      
+">
+  <img 
+    src="[https://raw.githubusercontent.com/henrikdeveloper/henrikdeveloper/output/dist/github-contribution-grid-snake-dark.svg](https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg)" 
+    alt="GitHub Snake Game" 
+    style="max-width: 100%; display: block;" 
+  >
+</div>
 
 
 
