@@ -29,12 +29,7 @@
   </div>
 </div>
 
-<div align="center" style="
-    border: 2px solid #cccccc; 
-    border-radius: 6px;         
-    padding: 10px;        
-    display: inline-block;      
-">
+<div
   <img 
     src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
     alt="GitHub Snake Game" 
