@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/henrikdeveloper/henrikdeveloper/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game (Dark)" style="max-width: 100%;">
+<img src="(https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg)">
 </p>
 
 
