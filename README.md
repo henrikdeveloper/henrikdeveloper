@@ -10,7 +10,7 @@
   <br> 
   <b>My passion is to turn real-world problems into real-world solutions efficiently.</b>
 </p>
-
+<br>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -48,7 +48,7 @@
 </p>
 
 <div align="center">  
-  <h3>Conecte-se comigo!</h3>   
+  <h3>Contact Me!</h3>   
   <p>  
     <a href="https://www.linkedin.com/in/gustavo-henri036/">   
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">   
