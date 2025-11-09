@@ -29,11 +29,16 @@
   </div>
 </div>
 
-<p>
+<p align="center">
   <img 
     src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
     style="max-width: 100%; display: block;" 
   >
+</p>
+
+<p align="left">
+  <h3>Stats</h3>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
