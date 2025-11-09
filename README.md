@@ -3,7 +3,7 @@
   <img src="Henrik_Github_Bannerr.gif" alt="Banner Gif">
 </p>
 
-<h3 align="center">🇧🇷 Brazilian Fullstack Developer | AI Enthusiast</h3>
+<h3 align="center">🇧🇷 Brazilian Fullstack Developer | Freelancer | AI Enthusiast</h3>
 
 <p align="center">
   I've been in the tech field since a young age, and now I'm focused on developing Fullstack Applications. 
