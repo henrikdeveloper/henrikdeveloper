@@ -4,7 +4,7 @@
 
 <div> 
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" style="vertical-align: middle; margin-top: 5px; display: inline-block; 
-      transform: translateY(2px);" height="30" width="30"> <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
+      transform: translateY(2px);" height="36" width="36"> <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
 </div>
 
 🌱 I'm a Systems Information student, passionate about **web and multiplatform development**. I'm always eager to learn and expand my skills, and I love collaborating with the tech community on GitHub.
