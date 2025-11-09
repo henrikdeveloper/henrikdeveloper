@@ -34,5 +34,8 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=transparent&hide_border=true" alt="GitHub Top Languages" > </div>
 
+<p align="center">
+  <strong>I'm always open to meet new people. So if you wanna say 'hi', it'll be a pleasure to have some chat! Or, how we say in Brazil, <em>"um dedin de prosa"</em></strong>
+</p>
 
 
