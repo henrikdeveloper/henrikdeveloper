@@ -3,7 +3,7 @@
 </p>
 <!-- Tools I use -->
 <div align="center">
-  <h1><strong>My Tools<strong><h1>
+  <h2><strong>Tools I use<strong><h2>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -37,3 +37,6 @@
 <p>
   I like to turn problems into efficient solutions! :)
 </p>
+
+
+[My LinkedIn Profile](https://www.linkedin.com/in/gustavo-henri036/)
