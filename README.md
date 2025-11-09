@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="Henrik_Github_Bannerr.gif" alt="Banner Gif">
+  <img src="Henrik_Banner_Github.gif" alt="Banner Gif">
 </p>
-
+<h3 align="center">🇧🇷 Brazilian Fullstack Developer | AI Enthusiast</h3>
+<p>I've been in the tech field since a young age, and now i'm focused in developing Fullstack Aplications! <br> <em>My passion is to turn real world problems into real world solutions effeciently.</em></p>
 <div align="center">
   <h3>My Tools</h3> 
-  <br>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -29,18 +29,17 @@
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   </div>
 </div>
+<br>
+
+
+<div align="center"> <h3>Stats</h3> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=transparent&hide_border=true" alt="GitHub Top Languages" > </div>
+
 
 <p align="center">
   <img 
     src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
     style="max-width: 100%; display: block;" 
   >
-</p>
-
-<p align="left">
-  <h3>Langs</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=radical&hide_border=true"
-    alt="GitHub Stats" >
 </p>
 
 
