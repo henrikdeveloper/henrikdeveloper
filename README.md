@@ -2,7 +2,7 @@
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
 <p>
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25">  **Hello, World! Olá, Mundo! Salut, le Monde!**
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25">  <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
 </p>
 🌱 I'm a Systems Information student, passionate about **web and multiplatform development**. I'm always eager to learn and expand my skills, and I love collaborating with the tech community on GitHub.
 
