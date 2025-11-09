@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3><strong>My Tools</strong></h3> 
+  <h3>My Tools</h3> 
   <br>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -33,8 +33,7 @@
   <img 
     src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
     alt="GitHub Snake Game" 
-    style="max-width: 100%; display: block;" 
-  >
+    style="max-width: 100%; display: block;"></img>
 </div>
 
 
