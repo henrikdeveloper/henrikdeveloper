@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Henrik_Banner_Github.gif" alt="Banner Gif">
+  <img src="Henrik_Github_Banner.gif" alt="Banner Gif">
 </p>
 
 <div align="center">
