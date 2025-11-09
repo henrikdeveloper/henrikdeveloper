@@ -3,9 +3,8 @@
   <img src="Henrik_Github_Bannerr.gif" alt="Banner Gif">
 </p>
 <h3 align="center">🇧🇷 Brazilian Fullstack Developer | AI Enthusiast</h3>
-<p align="center">I've been in the tech field since a young age, and now i'm focused in developing Fullstack Aplications! <br> <strong>My passion is to turn real world problems into real world solutions effeciently.</strong></p>
+<p align="center">I've been in the tech field since a young age, and now i'm focused in developing Fullstack Aplications. <br> <strong>My passion is to turn real world problems into real world solutions effeciently.</strong></p>
 <div align="center">
-  <h3>My Tools</h3> 
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -34,12 +33,5 @@
 
 <div align="center"> <h3>Stats</h3> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=transparent&hide_border=true" alt="GitHub Top Languages" > </div>
 
-
-<p align="center">
-  <img 
-    src="https://github.com/henrikdeveloper/henrikdeveloper/blob/output/github-snake-dark.svg"
-    style="max-width: 100%; display: block;" 
-  >
-</p>
 
 
