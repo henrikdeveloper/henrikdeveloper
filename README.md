@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="Henrik_Banner_Github.gif" alt="Banner Gif">
 </p>
@@ -37,9 +38,9 @@
 </p>
 
 <p align="left">
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=henrikdeveloper&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" 
-    alt="GitHub Stats">
+  <h3>Langs</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrikdeveloper&layout=compact&theme=radical&hide_border=true"
+    alt="GitHub Stats" >
 </p>
 
 
