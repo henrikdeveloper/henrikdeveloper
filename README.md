@@ -28,6 +28,9 @@
   </div>
 </div>
 
+<p align="center">
+  <img src="https://github.com/henrikdeveloper/henrikdeveloper/raw/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Game" style="max-width: 100%;">
+</p>
 
 <div>
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25" style="vertical-align: middle;">
