@@ -1,45 +1,44 @@
 <p align="center">
   <img src="Henrik_Banner.gif" alt="Banner Gif">
 </p>
-<!-- Tools I use -->
+
+<p align="center">
+  I like to **turn problems into efficient solutions!** :)
+</p>
+
+---
+
 <div align="center">
-  <h2><strong>Tools I use<strong><h2>
-  <div>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  </div>
-  <div>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </div>
-  <div>   
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  </div>
+  <h2><strong>Tools I Use</strong></h2> 
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </div>
 
 <p align="center">
-  <img src="https://github.com/henrikdeveloper/henrikdeveloper/raw/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake Game" style="max-width: 100%;">
+  <img src="https://github.com/henrikdeveloper/henrikdeveloper/raw/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Game" style="max-width: 100%;">
 </p>
 
-<div>
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25" style="vertical-align: middle;">
-  &nbsp;&nbsp;
-  <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
-</div>
-<p>
-  I like to turn problems into efficient solutions! :)
-</p>
+<table align="center">
+  <tr>
+    <td style="padding-right: 5px;">
+      <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25" style="vertical-align: middle;">
+    </td>
+    <td>
+      <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
+    </td>
+  </tr>
+</table>
 
 
-[My LinkedIn Profile](https://www.linkedin.com/in/gustavo-henri036/)
