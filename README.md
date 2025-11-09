@@ -3,7 +3,7 @@
 </p>
 
 <div> 
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" style="vertical-align: middle; margin-right: 5px; display: inline-block; 
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" style="vertical-align: middle; margin-top: 5px; display: inline-block; 
       transform: translateY(2px);" height="25"> <strong>Hello, World! Olá, Mundo! Salut, le Monde!</strong>
 </div>
 
