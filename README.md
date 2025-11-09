@@ -3,7 +3,7 @@
 </p>
 <!-- Tools I use -->
 <div align="center">
-  <h2><strong>Tools I use<strong><h2>
+  <h1><strong>My Tools<strong><h1>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -28,6 +28,9 @@
   </div>
 </div>
 
+<p>
+  <img src="(https://github.com/henrikdeveloper/henrikdeveloper/raw/output/dist/github-contribution-grid-snake.svg)"
+</p>
 
 <div>
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Mão acenando animada" width="25" height="25" style="vertical-align: middle;">
@@ -37,6 +40,3 @@
 <p>
   I like to turn problems into efficient solutions! :)
 </p>
-
-
-[My LinkedIn Profile](https://www.linkedin.com/in/gustavo-henri036/)
